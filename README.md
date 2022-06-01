@@ -1,4 +1,7 @@
 # in-car-bathroom_JR-EAST-E217
+CC-BY-4.0 - RuinDig/Yuki Uchida
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
+
 JR東日本、総武快速線・横須賀線の車両E217系の車内トイレ
 
 ![in-car-bathroom_JR-EAST-E217_01](https://user-images.githubusercontent.com/20723919/107136730-41a82600-6949-11eb-8d50-b9b6fb62fa99.jpg)
